@@ -1,0 +1,66 @@
+.nav-link {
+  color: rgb(7, 6, 6) /* !important */;
+  font-size: 20px;
+}
+.nav-link:hover{
+color: blue;
+  font-weight: bold;
+}
+.nav-light {
+  color: rgb(7, 6, 6) !important;
+  font-size: 20px;
+}
+
+.navbar-nav {
+  color: rgb(7, 6, 6) !important;
+  font-size: 20px;
+}
+
+.paragraph {
+  color: black;
+  font-size: 20px;
+}
+
+.head1 {
+  color: black;
+  text-align: center;
+  margin-top: -320px;
+  font-size: 60px;
+  color: aliceblue;
+  padding: auto;
+  text-shadow: 5px 5px 5px rgb(230, 206, 73);
+}
+
+.head2 {
+  color: rgb(0, 0, 0);
+  margin-top: -420px;
+  text-align: center;
+  font-size: 50px;
+  padding: auto;
+  font-weight: bold;
+  text-shadow: 5px 5px 5px rgb(177, 138, 138);
+}
+.head3 {
+  color: rgb(0, 0, 0);
+  margin-top: -100px;
+  margin-left: -50px;
+  text-align: center;
+  font-size: 50px;
+  padding: auto;
+  font-weight: bold;
+  text-shadow: 5px 5px 5px rgb(177, 138, 138);
+}
+.accordion-body{
+  color: rgb(0, 0, 0);
+  size: 30px;
+}
+
+
+
+/* .text-center{
+    margin-top: 50px;
+}
+ */
+/* .contpara1{
+    text-align: center;
+} */
